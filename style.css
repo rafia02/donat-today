@@ -10,28 +10,31 @@ body{
 .header-section{
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
-    height: 420px;
+    height: 600px;
     text-align: center;
     margin-bottom: 70px;
+   
+    
 }
 
 .header-title{
     color: white;
-    margin: 0 250px;
-    top: 90px;
+    margin: 0 270px;
+    top: 100px;
     position: absolute;
 }
 
 .header-title h1{
     font-size: 45px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     font-weight: bold; 
 }
 
 .header-title p{
-    font-size: 14px;
-    margin-bottom: 40px;
+    font-size: 18px;
+    margin-bottom: 70px;
 }
+
 
  a{
     padding: 15px 19px;
